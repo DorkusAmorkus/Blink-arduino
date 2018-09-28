@@ -1,9 +1,16 @@
 # Blink-arduino
 MIKE LOOK ARDUINO CODE for blink
 
-// Source: http://www.arduino.cc/en/Tutorial/Blink
+/*
 
-// the setup function runs once when you press reset or power the board
+Your name: Elias Han
+Date: 9/28/18
+Project/assignment name: 'Blink Barry'
+Description: Blink: Blinks an LED on and off
+  13 = Pin for LED
+  
+  credit: http://www.arduino.cc/en/Tutorial/Blink
+/*
 
 void setup() {
  pinMode(13, OUTPUT); //sets up what PIN the positive end of the LED is
